@@ -1,0 +1,4 @@
+# TikTok Shop 商品URLリスト
+# 1行に1つのURLを記載してください
+# 例: https://shop.tiktok.com/view/product/xxxxx
+
